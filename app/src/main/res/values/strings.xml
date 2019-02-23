@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LockScreen</string>
+    <string name="activate_admin">Activate Device Administrator to lock the screen!</string>
+    <string name="extra_explanation">Allow LockScreen to lock the device</string>
+</resources>
